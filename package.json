@@ -1,0 +1,15 @@
+{
+  "name": "oefening3",
+  "version": "1.0.0",
+  "description": "oefening3_gulp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Manon Kindt",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.8.8",
+    "gulp-header": "^1.2.2"
+  }
+}
